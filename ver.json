@@ -1,7 +1,7 @@
 {
     "projects":{
         "master":{
-            "sprint":"sprint.2020.04",
+            "sprint":"sprint.220.04",
             "mmp":"1.18.0"
         },
         "develop":{
